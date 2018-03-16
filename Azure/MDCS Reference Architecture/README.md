@@ -55,7 +55,7 @@ After creating the cluster you can connect to it from your desktop MATLAB by usi
 1. After clicking "Purchase" you will be taken to the Azure Portal Dashboard. To montior the progress of your deployment, select your cluster resource group from the Resource Groups panel. Wait for the all "Deployments" to reach "Succeeded".
 2. Select the Storage Account ending with “storage”. The screen should look like the one in Figure 1.
 
-    ![Resource Group On Completion](/images/Deployment_Complete_Select_Storage.png)
+    ![Resource Group On Completion](images/Deployment_Complete_Select_Storage.png)
 
     *Figure 1: Resource Group On Completion*
 
@@ -99,7 +99,7 @@ Microsoft Azure is a set of cloud services which allow you to build, deploy, and
 
 The MJS cluster and the resources required by it are created using [Azure Resource Manager templates](https://docs.microsoft.com/en-gb/azure/azure-resource-manager/resource-group-overview). The cluster architecture created by the template is illustrated in Figure 2, it defines the resources below. For more information about each resource see the [Azure template reference.](https://docs.microsoft.com/en-us/azure/templates/) 
 
-![Cluster Architecture](/images/Azure_Solution_Scale_Set.png?raw=true)
+![Cluster Architecture](images/Azure_Solution_Scale_Set.png?raw=true)
 
 *Figure 2: Cluster Architecture*
 
