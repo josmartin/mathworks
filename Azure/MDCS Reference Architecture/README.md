@@ -82,7 +82,7 @@ You can remove the Resource Group and all associated cluster resources when you 
 3. Select the "Delete resource group" icon to destroy all resources deplyoyed in this group.
 4. You will be prompted to enter the name of the resource group to confirm the deletion.
 
-    ![Resource Group Delete](/images/Resource_Group_Delete.png)
+    ![Resource Group Delete](images/Resource_Group_Delete.png)
 
 # Troubleshooting
 If your resource group fails to deploy, check the Deployments section of the cluster Resource Group. It will indicate which resource deployments failed and allow you to navigate to the causing error message.
